@@ -1,6 +1,6 @@
 Hi, I’m @amoore3997
-I’m currently learning Fullstack Software development
-I’m looking to collaborate on any Open-source projects
+I’m currently learning fullstack software development
+I’m looking to collaborate on any open-source projects
 I mostly do front end and python automation/AI integration
 i have a background in networking, sys admin, and system architecture and design
 <!---
